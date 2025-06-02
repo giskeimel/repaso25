@@ -6,4 +6,4 @@ Repaso de lo basico de Git
 4.- git commit -m"mensajito"
 5.- git push origin main
 
-agrego mas cosas
+agrego mas cosas, y mas
