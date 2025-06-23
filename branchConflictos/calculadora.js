@@ -1,3 +1,7 @@
+function hola() {
+}
+
+
 function calcular(num1, num2, operador) {
     if (typeof num1 !== 'number' || typeof num2 !== 'number') {
       return 'Error: Los valores deben ser números';
@@ -5,7 +9,7 @@ function calcular(num1, num2, operador) {
 	//agrego un comentario en la linea 5
     switch (operador) {
       case '+':
-        return num1 + num2 + num3;
+        return num1 + num2 + num3 + 87;
       case '-':
         return num1 - num2;
       case '*':
