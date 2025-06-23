@@ -9,7 +9,7 @@ function calcular(num1, num2, operador) {
 	//agrego un comentario en la linea 5
     switch (operador) {
       case '+':
-        return num1 + num2 + num3 + 87;
+        return num1 + num2 + num3 + 87 + num4;
       case '-':
         return num1 - num2;
       case '*':
